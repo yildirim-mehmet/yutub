@@ -6,7 +6,7 @@ A YouTube music player that frees your playlists from browser dependency and get
 Español 
 Un reproductor de música de YouTube que libera tus listas de reproducción de la dependencia del navegador y de perderse entre pestañas que se cierran constantemente, llevando tu rendimiento y continuidad al nivel más alto.
 
-3. العربية (Arapça)
+3. العربية 
 مشغل موسيقى من يوتيوب يحرر قوائم التشغيل الخاصة بك من الاعتماد على المتصفح ومن الضياع بين علامات التبويب التي تُغلق constantly، رافعًا أداءك واستمراريتك إلى أعلى مستوى.
 
 हिन्दी 
@@ -29,3 +29,4 @@ Um tocador de música do YouTube que liberta suas playlists da dependência do n
 
 中文 
 一款 YouTube 音乐播放器，将您的播放列表从浏览器依赖和不断关闭的标签页中解放出来，避免迷失其中，将您的性能和连续性提升到最高水平。
+
