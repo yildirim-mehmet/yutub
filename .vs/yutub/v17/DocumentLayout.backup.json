@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|c:\\users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|solutionrelative:yutub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|c:\\users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|solutionrelative:yutub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|c:\\users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|solutionrelative:yutub\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|c:\\users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\yutub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|solutionrelative:yutub\\yutub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|c:\\users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13958A93-7D3C-4E1C-99F7-1C4A5E4584A6}|yutub\\yutub.csproj|solutionrelative:yutub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\_a19sisopr35\\AppData\\Local\\SourceServer\\77f929c42779c85acac9b344cbdaab8a03e3fa06fd966caf62a86ffd1591731c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Program.cs",
+              "RelativeDocumentMoniker": "yutub\\Program.cs",
+              "ToolTip": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Program.cs",
+              "RelativeToolTip": "yutub\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:49:03.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "yutub",
+              "DocumentMoniker": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\yutub.csproj",
+              "RelativeDocumentMoniker": "yutub\\yutub.csproj",
+              "ToolTip": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\yutub.csproj",
+              "RelativeToolTip": "yutub\\yutub.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T07:41:08.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MethodBaseInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\_a19sisopr35\\AppData\\Local\\SourceServer\\77f929c42779c85acac9b344cbdaab8a03e3fa06fd966caf62a86ffd1591731c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\77f929c42779c85acac9b344cbdaab8a03e3fa06fd966caf62a86ffd1591731c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs",
+              "ToolTip": "C:\\Users\\_a19sisopr35\\AppData\\Local\\SourceServer\\77f929c42779c85acac9b344cbdaab8a03e3fa06fd966caf62a86ffd1591731c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\77f929c42779c85acac9b344cbdaab8a03e3fa06fd966caf62a86ffd1591731c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs [Read Only]",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE0AAAA0AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:29:11.613Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "yutub\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Form1.Designer.cs",
+              "RelativeToolTip": "yutub\\Form1.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowL4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:51:53.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Form1.cs",
+              "RelativeDocumentMoniker": "yutub\\Form1.cs",
+              "ToolTip": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Form1.cs",
+              "RelativeToolTip": "yutub\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:52:02.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Form1.cs",
+              "RelativeDocumentMoniker": "yutub\\Form1.cs",
+              "ToolTip": "C:\\Users\\_a19sisopr35\\source\\repos\\yutub\\yutub\\Form1.cs [Design]",
+              "RelativeToolTip": "yutub\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:51:46.077Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
